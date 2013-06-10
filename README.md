@@ -1,34 +1,34 @@
 <h2>GEMPAK Workshop Tutorial</h2>
 
-<h3><a href="introduction.html">1.  Introduction</a></h3>
+<h3><a href="1._introduction.html">1.  Introduction</a></h3>
 
 <ul>
-<li><a href="introduction.html#1.1">1.1 What is GEMPAK?</a>
-<li><a href="introduction.html#1.2">1.2 Workshop Specific Instructions</a>
+<li><a href="1._introduction.html#1.1">1.1 What is GEMPAK?</a>
+<li><a href="1._introduction.html#1.2">1.2 Workshop Specific Instructions</a>
 </ul>
 
 
-<h3><a href="gempak_user_interface.html">2. User Interface</a></h3>
+<h3><a href="2._gempak_user_interface.html">2. User Interface</a></h3>
 
 <ul>
-<li><a href="gempak_user_interface.html#2.1">2.1 Exercise #1 (An Introduction)</a>
-<li><a href="gempak_user_interface.html#2.2">2.2 Help Pages</a>
-<li><a href="gempak_user_interface.html#2.3">2.3 Default Files</a>
-<li><a href="gempak_user_interface.html#2.4">2.4 Environmental Variables</a>
+<li><a href="2._gempak_user_interface.html#2.1">2.1 Exercise #1 (An Introduction)</a>
+<li><a href="2._gempak_user_interface.html#2.2">2.2 Help Pages</a>
+<li><a href="2._gempak_user_interface.html#2.3">2.3 Default Files</a>
+<li><a href="2._gempak_user_interface.html#2.4">2.4 Environmental Variables</a>
 </ul>
 
 
-<h3><a href="surface_data_mapping.html">3. Surface Data Mapping</a></h3>
+<h3><a href="3._surface_data_mapping.html">3. Surface Data Mapping</a></h3>
 
 <ul>
-<li><a href="surface_data_mapping.html#3.1">3.1 SFMAP Input Parameters</a>
-<li><a href="surface_data_mapping.html#3.2">3.2 Adjusting AREA and GAREA</a>
-<li><a href="surface_data_mapping.html#3.3">3.3 SFPARM - Surface Parameters</a>
-<li><a href="surface_data_mapping.html#3.4">3.4 DATTIM - Date and Time</a>
-<li><a href="surface_data_mapping.html#3.5">3.5 Clearing the Map Window</a>
-<li><a href="surface_data_mapping.html#3.6">3.6 Map Projections</a>
-<li><a href="surface_data_mapping.html#3.7">3.7 Exercise #2 (Overlay Satellite Image)</a>
-<li><a href="surface_data_mapping.html#3.8">3.8 Exercise #3 (Live Data)</a>
+<li><a href="3._surface_data_mapping.html#3.1">3.1 SFMAP Input Parameters</a>
+<li><a href="3._surface_data_mapping.html#3.2">3.2 Adjusting AREA and GAREA</a>
+<li><a href="3._surface_data_mapping.html#3.3">3.3 SFPARM - Surface Parameters</a>
+<li><a href="3._surface_data_mapping.html#3.4">3.4 DATTIM - Date and Time</a>
+<li><a href="3._surface_data_mapping.html#3.5">3.5 Clearing the Map Window</a>
+<li><a href="3._surface_data_mapping.html#3.6">3.6 Map Projections</a>
+<li><a href="3._surface_data_mapping.html#3.7">3.7 Exercise #2 (Overlay Satellite Image)</a>
+<li><a href="3._surface_data_mapping.html#3.8">3.8 Exercise #3 (Live Data)</a>
 </ul>
 
 
